@@ -11,10 +11,10 @@
 		}
 	],
 	"require": {
-		"php": ">=5.5.0",
-		"illuminate/database": ">= 5.0",
-		"illuminate/support": ">= 5.0",
-		"baum/baum": "~1.1",
+		"php": ">=7.0",
+		"illuminate/database": "~6.0",
+		"illuminate/support": "~6.0",
+		"baum/baum": "~2.0",
 		"overtrue/pinyin" : "~3.0"
 	},
 	"require-dev": {
