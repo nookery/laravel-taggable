@@ -1,5 +1,5 @@
 {
-	"name": "estgroupe/laravel-taggable",
+	"name": "nookery/laravel-taggable",
 	"description": "Taggable Trait for using tag inside Laravel Eloquent models, with Baum's Nested Set pattern support.",
 	"license": "MIT",
 	"homepage": "https://github.com/summerblue/laravel-taggable",
