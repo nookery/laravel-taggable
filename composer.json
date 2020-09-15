@@ -14,7 +14,7 @@
 		"php": ">=7.0",
 		"illuminate/database": "~7.0 || ^8.0",
 		"illuminate/support": "~7.0 || ^8.0",
-		"nookery/baum": "~2.0",
+		"nookery/baum": "~8.0",
 		"overtrue/pinyin" : "~3.0"
 	},
 	"require-dev": {
